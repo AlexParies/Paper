@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Run
+Comment=
+Exec=java -Xms2G -Xmx2G -jar paper-1.20.2-309.jar --nogui
+Icon=
+Path=/home/alex/Desktop/Server/Paper
+Terminal=true
+StartupNotify=false
